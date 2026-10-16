@@ -22,3 +22,7 @@ o conflito precisa ser resolvido manualmente, onde o usuário escolhe o que dese
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
 diferenças entre eles?
+
+R: Clone faz uma cópia completa do repositório remoto para o repositório local.
+Fork cria uma cópia do repositório remoto para o repositório remoto do usuário, de tal maneira
+que suas alterações não afetem o repositório original.
