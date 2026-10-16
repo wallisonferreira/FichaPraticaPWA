@@ -13,6 +13,12 @@ quando há múltiplas pessoas trabalhando sobre o mesmo artefato de código.
 
 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em 
-que consistem e como podem ser resolvidos esses conflitos? 
+que consistem e como podem ser resolvidos esses conflitos?
+
+R: Conflitos de merge podem ocorrer quando uma alteração é sobreposta
+sobre outra alteração. Para o caso do Pop, onde a alteração é removida, 
+o conflito precisa ser resolvido manualmente, onde o usuário escolhe o que deseja manter e o que deseja remover.
+
+
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
-diferenças entre eles? 
+diferenças entre eles?
